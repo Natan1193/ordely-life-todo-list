@@ -83,4 +83,9 @@ index.html
 
 Desenvolvido por Natan Passos Viana.
 
+## 🌐 Deploy
+
+Acesse o projeto online:
+https://SEU-USUARIO.github.io/orderly-life-todo-list/
+
 ---
