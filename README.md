@@ -86,6 +86,7 @@ Desenvolvido por Natan Passos Viana.
 ## 🌐 Deploy
 
 Acesse o projeto online:
-https://SEU-USUARIO.github.io/orderly-life-todo-list/
+
+https://natan1193.github.io/ordely-life-todo-list/
 
 ---
